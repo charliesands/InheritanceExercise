@@ -16,7 +16,7 @@ namespace InheritanceExercise
         }
 
         private string writtenDownCombination = null;
-        public void WrittenDownCombination(string combination)
+        public void WriteDownCombination(string combination)
         {
             writtenDownCombination = combination;
         }
